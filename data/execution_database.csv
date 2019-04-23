@@ -138,7 +138,7 @@ Date,Name,Age,Sex,Race,Number / Race / Sex of Victims,State,Region,Method,Juveni
 05/10/2002,Leslie Martin,35,m,White,1 White Female(s),LA,S,Lethal Injection,No,No,No,No,Calcasieu Parish
 05/06/2003,Roger Vaughn,47,m,White,1 White Female(s),TX,S,Lethal Injection,No,No,No,No,Wilbarger
 06/12/1987,Jimmy Glass,25,m,White,1 White Male(s)1 White Female(s),LA,S,Electrocution,No,No,No,No,Lafayette Parish
-06/11/2001,Timothy McVeigh*,33,m,White,129 White 2 Native American 5 Latino 32 Black,FE,S,Lethal Injection,No,Yes,Yes,No,Oklahoma
+06/11/2001,Timothy McVeigh,33,m,White,129 White 2 Native American 5 Latino 32 Black,FE,S,Lethal Injection,No,Yes,Yes,No,Oklahoma
 06/11/1997,Earl Behringer,33,m,White,1 White Male(s)1 White Female(s),TX,S,Lethal Injection,No,No,No,No,Tarrant
 06/10/1998,David Cargill,39,m,White,1 White Female(s)1 White Male(s),GA,S,Electrocution,No,No,No,No,Bibb
 06/02/2000,Pernell Ford,35,m,Black,2 White Female(s),AL,S,Electrocution,No,No,Yes,No,Calhoun
@@ -561,7 +561,7 @@ Date,Name,Age,Sex,Race,Number / Race / Sex of Victims,State,Region,Method,Juveni
 03/27/2001,Robert Massie,59,m,White,1 White Male(s),CA,W,Lethal Injection,No,No,Yes,No,San Francisco
 03/14/2002,James Patterson,35,m,White,1 White Female(s),VA,S,Lethal Injection,No,No,Yes,No,Prince George
 03/13/2003,Michael Thompson,43,m,White,1 White Female(s),AL,S,Lethal Injection,No,No,No,No,Blount
-03/18/2003,Louis Jones*,53,m,Black,1 White Female(s),FE,S,Lethal Injection,No,Yes,No,No,
+03/18/2003,Louis Jones,53,m,Black,1 White Female(s),FE,S,Lethal Injection,No,Yes,No,No,Vigo
 03/25/2003,Larry Moon,57,m,White,1 White Male(s),GA,S,Lethal Injection,No,No,No,No,Catoosa
 03/26/2003,James Colburn,43,m,White,1 White Female(s),TX,S,Lethal Injection,No,No,No,No,Montgomery
 04/22/1983,John Evans,33,m,White,1 White Male(s),AL,S,Electrocution,No,No,No,No,Mobile
@@ -684,7 +684,7 @@ Date,Name,Age,Sex,Race,Number / Race / Sex of Victims,State,Region,Method,Juveni
 06/27/2001,Jim Lowery,54,m,White,1 White Male(s)1 White Female(s),IN,M,Lethal Injection,No,No,No,No,Boone
 06/25/2002,Robert Coulson,33,m,White,2 White Male(s)3 White Female(s),TX,S,Lethal Injection,No,No,No,No,Harris
 06/17/1997,Eddie Johnson,44,m,Black,1 White Male(s)2 White Female(s),TX,S,Lethal Injection,No,No,No,No,Aransas
-06/19/2001,Juan Garza*,44,m,Latino,3 Latino Male(s),FE,S,Lethal Injection,No,Yes,No,No,
+06/19/2001,Juan Garza,44,m,Latino,3 Latino Male(s),FE,S,Lethal Injection,No,Yes,No,No,Vigo
 06/13/2003,Joseph Trueblood,46,m,White,1 White Male(s)2 White Female(s),IN,M,Lethal Injection,No,No,No,No,Tippecanoe
 06/26/1998,Leopoldo Narvaiz,30,m,Latino,1 White Male(s)3 White Female(s),TX,S,Lethal Injection,No,No,No,No,Hays
 06/25/1985,Charles Milton,34,m,Black,1 Black Female(s),TX,S,Lethal Injection,No,No,No,No,Tarrant
